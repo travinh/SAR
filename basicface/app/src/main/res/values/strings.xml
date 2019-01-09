@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FaceApp</string>
+    <string name="submit_bugreport">Submit Bugreport</string>
+    <string name="image_error">IMAGE ERROR</string>
+    <string name="sleep_mode">Sleep Reset</string>
+    <string name="debug_text">TEXT HERE</string>
+    <string-array name="locations">
+        <item>Clinic</item>
+        <item>Home</item>
+    </string-array>
+    <string-array name="bugType">
+        <item>Unexpected Powerdown</item>
+        <item>Odd Behavior</item>
+        <item>Crash</item>
+        <item>Unexpected Sleep</item>
+    </string-array>
+    <string name="description_text">Description</string>
+    <string name="submit_text">SUBMIT</string>
+    <string name="cancel_text">CANCEL</string>
+    <string name="checkbox_text">Is this report after app shutdown?</string>
+</resources>
